@@ -6,7 +6,7 @@
 
   <!-- Animated Real-time Typing SVG -->
   <a href="https://dhanush-m.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=06B6D4&center=true&vCenter=true&random=false&width=720&lines=%F0%9F%9A%80+Software+Developer+%40+Harvee+Technologies;%E2%9A%A1+Specialist+in+FastAPI%2C+Python+%26+MERN+Stack;%F0%9F%9B%92+Creator+of+FastX+Hyperlocal+Multi-Vendor+Marketplace;%F0%9F%93%B1+Cross-Platform+Mobile+Apps+(React+Native);%F0%9F%9B%A1%EF%B8%8F+B.E.+CSE+with+Cyber+Security+Honours+(CGPA+8.12);%E2%99%9F%EF%B8%8F+Competitive+Chess+Player+%26+Tactical+Coach" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=06B6D4&center=true&vCenter=true&random=false&width=720&lines=%F0%9F%9A%80+Full+Stack+Software+Developer+%26+Systems+Engineer;%E2%9A%A1+Specialist+in+FastAPI%2C+Python+%26+MERN+Stack;%F0%9F%9B%92+Creator+of+FastX+Hyperlocal+Multi-Vendor+Marketplace;%F0%9F%93%B1+Cross-Platform+Mobile+Apps+(React+Native);%F0%9F%9B%A1%EF%B8%8F+B.E.+CSE+with+Cyber+Security+Honours+(CGPA+8.12);%E2%99%9F%EF%B8%8F+Competitive+Chess+Player+%26+Tactical+Coach" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@
 
 ```yaml
 Engineer:       Dhanush M
-Current Role:   Software Developer @ Harvee Technologies (Bengaluru, India)
+Specialization: Full Stack & Systems Engineer (Bengaluru, India)
 Education:      B.E. Computer Science & Engineering (Honours in Cyber Security)
                 Hindusthan Institute of Technology · CGPA: 8.12
 Certifications: Certified in DSA & Flask by HCL GUVI
@@ -152,8 +152,6 @@ Passions:       Competitive Chess Player & Tactical Coach, Open Source Distribut
 | **FastX** | **Hyperlocal Quick-Commerce & Multi-Vendor Grocery Marketplace** — 10-minute delivery ecosystem synchronizing multi-merchant catalogs, dynamic wallet transactions, coupon validation engine, and live delivery dispatch. | `Python` `Django` `REST APIs` `MySQL` `Geo-Routing` `FastX Wallet` | [Repository](https://github.com/dhanushmsr/Hyperlocal-Delivery-Multi-Vendor-Marketplace) |
 | **GoSouthIndia** | **AI Cultural Tourism & Digital Concierge Platform** — Real-time heritage insights covering UNESCO monuments with Gemini LLM, domain-grounded RAG pipeline, and Edge-TTS multilingual speech reading. | `FastAPI` `Python` `Gemini LLM` `RAG` `Edge-TTS` `RBAC` `PostgreSQL` | [Repository](https://github.com/dhanushmsr/Tour-Guide-With-LLM-and-Voice-based-guide) |
 | **Ganesha Restaurant (OmniServe)** | **Full-Stack Restaurant POS & Online Ordering Platform** — Google Maps geofenced radius limitation, delivery fee calculations, and live kitchen audio workflow via AJAX polling. | `Python` `Django` `MySQL` `Google Maps Matrix API` `AJAX` `POS` | [Repository](https://github.com/dhanushmsr/global-food-ecommerce-django) |
-| **RxDx** | **Medical E-Learning & CME Platform** — Accredited education portal serving 200+ doctors with video lectures, quiz assessments, and automated certificate generation. | `React.js` `React Native` `Node.js` `Express.js` `MongoDB` `JWT` | Production |
-| **ZureSmile** | **Dental Practice & Clinic Management Portal** — Handling 1,000+ monthly appointments with double-booking prevention and automated webhook notifications. | `React.js` `Node.js` `Express.js` `MongoDB` `Calendar API` | Production |
 | **AcD Academy Management** | **Sports Coaching & Student Mobile App** — Batch management, attendance marking, platform fee receipts, and tournament expense logging. | `React Native` `Flutter` `Node.js` `REST APIs` | [Live App](https://acdmanage.vercel.app/#/login) |
 | **Class Vision** | **AI Face Recognition Attendance System** — Automated facial recognition attendance logging platform using Haar Cascades, CSV time-logging, and Tkinter GUI. | `Python` `OpenCV` `Haar Cascades` `Tkinter` | [Repository](https://github.com/dhanushmsr/Attendance-Monitoring-System) |
 
