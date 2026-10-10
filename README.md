@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Guaranteed Self-Hosted Vector Banner (100% Uptime directly from repository) -->
-  <img src="./assets/banner.svg" width="100%" alt="Dhanush M — Full Stack Developer & Systems Engineer" />
+  <!-- Dynamic Gradient Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06090e,50:0b1320,100:06b6d4&height=220&section=header&text=Dhanush%20M&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20FastAPI%20%26%20MERN%20Specialist%20%7C%20Cyber%20Security%20Honours&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Dhanush M Header Banner" />
 
   <br/><br/>
 
@@ -80,6 +80,9 @@ Passions:       Competitive Chess Player & Tactical Coach, Open Source Distribut
   <a href="https://github.com/dhanushmsr">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushmsr&layout=compact&theme=tokyonight&hide_border=false&border_color=eab308&bg_color=090d14&title_color=eab308&text_color=e2e8f0" height="165" alt="Top Languages" />
   </a>
+  <a href="https://github.com/dhanushmsr">
+    <img src="https://github-activity-graph.vercel.app/graph?username=dhanushmsr&theme=react-dark&bg_color=090d14&color=06b6d4&line=10b981&point=eab308&area=true&hide_border=true" height="165" alt="Commit Activity Graph" />
+  </a>
 </div>
 
 ---
@@ -156,7 +159,11 @@ Passions:       Competitive Chess Player & Tactical Coach, Open Source Distribut
 
 ---
 
-## 🎖️ Engineering Credentials & Milestones
+## 🏆 Badges & Milestones
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=dhanushmsr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="GitHub Profile Trophies" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_Degree-B.E._CSE_(Honours_in_Cyber_Security)-06b6d4?style=for-the-badge" alt="Degree" />
