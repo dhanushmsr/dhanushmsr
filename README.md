@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Dynamic Gradient Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06090e,50:0b1320,100:06b6d4&height=220&section=header&text=Dhanush%20M&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20FastAPI%20%26%20MERN%20Specialist%20%7C%20Cyber%20Security%20Honours&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Dhanush M Header Banner" />
+  <img src="assets/banner.svg" width="100%" alt="Dhanush M — Full Stack Developer & Systems Engineer" />
 
   <br/><br/>
 

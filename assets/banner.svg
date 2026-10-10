@@ -80,7 +80,7 @@
   <!-- Location & Availability (Top Right) -->
   <g transform="translate(730, 42)">
     <rect width="210" height="28" rx="14" fill="#0f172a" stroke="#10b981" stroke-width="1" stroke-opacity="0.4" />
-    <text x="105" y="18" fill="#a7f3d0" text-anchor="middle" class="banner-pill">⚡ HARVEE TECHNOLOGIES</text>
+    <text x="105" y="18" fill="#a7f3d0" text-anchor="middle" class="banner-pill">⚡ SYSTEMS ENGINEER</text>
   </g>
 
   <!-- Main Heading: DHANUSH M -->
