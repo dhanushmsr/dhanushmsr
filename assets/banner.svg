@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="100%" height="280" fill="none">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06090e" />
+      <stop offset="45%" stop-color="#0b1320" />
+      <stop offset="100%" stop-color="#080c14" />
+    </linearGradient>
+
+    <!-- Accent Gradient -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="50%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#eab308" />
+    </linearGradient>
+
+    <!-- Text Fill Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="60%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+
+    <!-- Glowing Orbs Filter -->
+    <filter id="glowFilter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="60" result="blur" />
+    </filter>
+
+    <radialGradient id="orbCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="orbEmerald" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Pattern Grid -->
+    <pattern id="cyberGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.7" stroke-opacity="0.35" />
+      <circle cx="0" cy="0" r="1.2" fill="#38bdf8" fill-opacity="0.25" />
+    </pattern>
+  </defs>
+
+  <style>
+    .banner-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 46px; font-weight: 900; letter-spacing: -0.02em; }
+    .banner-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; }
+    .banner-tag { font-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace; font-size: 13px; font-weight: 600; }
+    .banner-pill { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="1000" height="280" rx="14" fill="url(#bgGrad)" />
+  <rect width="1000" height="280" rx="14" fill="url(#cyberGrid)" />
+
+  <!-- Ambient Glow Orbs -->
+  <circle cx="150" cy="80" r="160" fill="url(#orbCyan)" filter="url(#glowFilter)" />
+  <circle cx="850" cy="180" r="180" fill="url(#orbEmerald)" filter="url(#glowFilter)" />
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="1000" height="4" fill="url(#accentGrad)" />
+
+  <!-- Outer Border -->
+  <rect x="1" y="1" width="998" height="278" rx="13" fill="none" stroke="#334155" stroke-width="1.2" stroke-opacity="0.4" />
+
+  <!-- Decorative Abstract Tech Polyline at Right -->
+  <path d="M 720 0 L 800 120 L 920 120 L 1000 240" fill="none" stroke="#06b6d4" stroke-width="1.5" stroke-opacity="0.2" />
+  <circle cx="800" cy="120" r="3.5" fill="#06b6d4" fill-opacity="0.6" />
+  <circle cx="920" cy="120" r="3.5" fill="#10b981" fill-opacity="0.6" />
+
+  <!-- Status Pill (Top Left) -->
+  <g transform="translate(60, 42)">
+    <rect width="250" height="28" rx="14" fill="#0f172a" stroke="#06b6d4" stroke-width="1.2" stroke-opacity="0.6" />
+    <circle cx="16" cy="14" r="4.5" fill="#10b981" />
+    <circle cx="16" cy="14" r="8" fill="#10b981" fill-opacity="0.25" />
+    <text x="32" y="18" fill="#38bdf8" class="banner-pill">SOFTWARE DEVELOPER</text>
+  </g>
+
+  <!-- Location & Availability (Top Right) -->
+  <g transform="translate(730, 42)">
+    <rect width="210" height="28" rx="14" fill="#0f172a" stroke="#10b981" stroke-width="1" stroke-opacity="0.4" />
+    <text x="105" y="18" fill="#a7f3d0" text-anchor="middle" class="banner-pill">⚡ HARVEE TECHNOLOGIES</text>
+  </g>
+
+  <!-- Main Heading: DHANUSH M -->
+  <g transform="translate(60, 118)">
+    <text x="0" y="0" fill="url(#textGrad)" class="banner-title">DHANUSH M</text>
+  </g>
+
+  <!-- Role Subtitle -->
+  <g transform="translate(60, 150)">
+    <text x="0" y="0" fill="#38bdf8" class="banner-sub">FULL STACK DEVELOPER // SYSTEMS &amp; AI ENGINEER</text>
+  </g>
+
+  <!-- Tech Chips / Pills (Bottom Row) -->
+  <g transform="translate(60, 185)">
+    <!-- Chip 1: FastAPI -->
+    <rect x="0" y="0" width="102" height="32" rx="6" fill="#0f172a" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.5" />
+    <text x="51" y="20" fill="#e2e8f0" text-anchor="middle" class="banner-tag">⚡ FastAPI</text>
+
+    <!-- Chip 2: Python / Django -->
+    <rect x="112" y="0" width="145" height="32" rx="6" fill="#0f172a" stroke="#10b981" stroke-width="1" stroke-opacity="0.5" />
+    <text x="184" y="20" fill="#e2e8f0" text-anchor="middle" class="banner-tag">🐍 Python / Django</text>
+
+    <!-- Chip 3: MERN Stack -->
+    <rect x="267" y="0" width="130" height="32" rx="6" fill="#0f172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.5" />
+    <text x="332" y="20" fill="#e2e8f0" text-anchor="middle" class="banner-tag">⚛️ MERN Stack</text>
+
+    <!-- Chip 4: React Native -->
+    <rect x="407" y="0" width="136" height="32" rx="6" fill="#0f172a" stroke="#60a5fa" stroke-width="1" stroke-opacity="0.5" />
+    <text x="475" y="20" fill="#e2e8f0" text-anchor="middle" class="banner-tag">📱 React Native</text>
+
+    <!-- Chip 5: Cyber Security Honours -->
+    <rect x="553" y="0" width="170" height="32" rx="6" fill="#0f172a" stroke="#eab308" stroke-width="1" stroke-opacity="0.5" />
+    <text x="638" y="20" fill="#e2e8f0" text-anchor="middle" class="banner-tag">🛡️ Cyber Sec (8.12)</text>
+
+    <!-- Chip 6: Chess Coach -->
+    <rect x="733" y="0" width="145" height="32" rx="6" fill="#0f172a" stroke="#c084fc" stroke-width="1" stroke-opacity="0.5" />
+    <text x="805" y="20" fill="#e2e8f0" text-anchor="middle" class="banner-tag">♟️ Chess Coach</text>
+  </g>
+
+  <!-- Bottom Accent Highlights -->
+  <line x1="60" y1="242" x2="940" y2="242" stroke="#1e293b" stroke-width="1" />
+  <g transform="translate(60, 260)">
+    <text x="0" y="0" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12px" font-weight="500">
+      📍 Bengaluru &amp; Coimbatore, India · 🌐 dhanush-m.vercel.app · ✉️ mdhanushdsm@gmail.com
+    </text>
+  </g>
+</svg>

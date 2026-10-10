@@ -1,10 +1,12 @@
 <div align="center">
-  <!-- Dynamic Gradient Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,16,24,06b6d4,10b981&height=220&section=header&text=Dhanush%20M&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20FastAPI%20%26%20MERN%20Specialist%20%7C%20Cyber%20Security%20Honours&descFontSize=17&descAlignY=62&descAlign=50" width="100%" alt="Dhanush M Header Banner" />
+  <!-- Guaranteed Self-Hosted Vector Banner (100% Uptime directly from repository) -->
+  <img src="./assets/banner.svg" width="100%" alt="Dhanush M — Full Stack Developer & Systems Engineer" />
+
+  <br/><br/>
 
   <!-- Animated Real-time Typing SVG -->
   <a href="https://dhanush-m.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=06B6D4&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%9A%80+Software+Developer+%40+Harvee+Technologies;%E2%9A%A1+Specialist+in+FastAPI%2C+Python+%26+MERN+Stack;%F0%9F%93%B1+Cross-Platform+Mobile+Apps+(React+Native);%F0%9F%9B%A1%EF%B8%8F+B.E.+CSE+with+Cyber+Security+Honours+(CGPA+8.12);%E2%99%9F%EF%B8%8F+Competitive+Chess+Player+%26+Tactical+Coach" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=06B6D4&center=true&vCenter=true&random=false&width=720&lines=%F0%9F%9A%80+Software+Developer+%40+Harvee+Technologies;%E2%9A%A1+Specialist+in+FastAPI%2C+Python+%26+MERN+Stack;%F0%9F%9B%92+Creator+of+FastX+Hyperlocal+Multi-Vendor+Marketplace;%F0%9F%93%B1+Cross-Platform+Mobile+Apps+(React+Native);%F0%9F%9B%A1%EF%B8%8F+B.E.+CSE+with+Cyber+Security+Honours+(CGPA+8.12);%E2%99%9F%EF%B8%8F+Competitive+Chess+Player+%26+Tactical+Coach" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,21 +23,36 @@
 ## ⚡ Quick Dossier
 
 ```yaml
-Engineer:     Dhanush M
-Current Role: Software Developer @ Harvee Technologies (Bengaluru, India)
-Education:    B.E. Computer Science & Engineering (Honours in Cyber Security)
-              Hindusthan Institute of Technology · CGPA: 8.12
+Engineer:       Dhanush M
+Current Role:   Software Developer @ Harvee Technologies (Bengaluru, India)
+Education:      B.E. Computer Science & Engineering (Honours in Cyber Security)
+                Hindusthan Institute of Technology · CGPA: 8.12
 Certifications: Certified in DSA & Flask by HCL GUVI
-Philosophy:   "There's no magic in code. Just logic, and the patience to follow it through."
-Open Source:  Tour Guide AI, Global Restaurant POS, Face Recognition Attendance System
-Passions:     Competitive Chess Player & Tactical Coach, Open Source Systems
+Philosophy:     "There's no magic in code. Just logic, and the patience to follow it through."
+Key Projects:   FastX Multi-Vendor Marketplace, GoSouthIndia AI, Ganesha Restaurant POS
+Passions:       Competitive Chess Player & Tactical Coach, Open Source Distributed Systems
 ```
+
+---
+
+## 🚀 Pinned Production Repositories
+
+<div align="center">
+  <!-- FastX Hyperlocal Delivery Multi-Vendor Marketplace -->
+  <a href="https://github.com/dhanushmsr/Hyperlocal-Delivery-Multi-Vendor-Marketplace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushmsr&repo=Hyperlocal-Delivery-Multi-Vendor-Marketplace&theme=tokyonight&border_color=06b6d4&bg_color=090d14&title_color=38bdf8&text_color=e2e8f0&icon_color=10b981" height="150" alt="FastX Repo Pin" />
+  </a>
+  <!-- GoSouthIndia Tour Guide AI -->
+  <a href="https://github.com/dhanushmsr/Tour-Guide-With-LLM-and-Voice-based-guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushmsr&repo=Tour-Guide-With-LLM-and-Voice-based-guide&theme=tokyonight&border_color=10b981&bg_color=090d14&title_color=34d399&text_color=e2e8f0&icon_color=06b6d4" height="150" alt="GoSouthIndia Repo Pin" />
+  </a>
+</div>
 
 ---
 
 ## 🐍 GitHub Contribution Snake (Automated via GitHub Actions)
 
-<!-- This animated snake eats your GitHub contribution commits daily via GitHub Action! -->
+<!-- This animated retro arcade snake eats your GitHub contribution commits daily via GitHub Action! -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanushmsr/dhanushmsr/output/github-contribution-grid-snake-dark.svg">
@@ -46,7 +63,7 @@ Passions:     Competitive Chess Player & Tactical Coach, Open Source Systems
 
 ---
 
-## 📊 Real-Time GitHub Analytics & Telemetry
+## 📊 Live GitHub Analytics & Telemetry
 
 <div align="center">
   <a href="https://github.com/dhanushmsr">
@@ -62,9 +79,6 @@ Passions:     Competitive Chess Player & Tactical Coach, Open Source Systems
 <div align="center">
   <a href="https://github.com/dhanushmsr">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushmsr&layout=compact&theme=tokyonight&hide_border=false&border_color=eab308&bg_color=090d14&title_color=eab308&text_color=e2e8f0" height="165" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/dhanushmsr">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushmsr&theme=react-dark&bg_color=090d14&color=06b6d4&line=10b981&point=eab308&area=true&hide_border=true" width="55%" alt="Commit Activity Graph" />
   </a>
 </div>
 
@@ -132,19 +146,23 @@ Passions:     Competitive Chess Player & Tactical Coach, Open Source Systems
 
 | Project | Highlights & Capabilities | Stack & Architecture | Code / Access |
 | :--- | :--- | :--- | :---: |
-| **GoSouthIndia** | AI Cultural Tourism & Digital Concierge platform covering UNESCO heritage sites with Gemini LLM, domain-grounded RAG, and Edge-TTS multilingual speech. | `FastAPI` `Python` `Gemini LLM` `RAG` `Edge-TTS` `RBAC` `PostgreSQL` | [Repository](https://github.com/dhanushmsr/Tour-Guide-With-LLM-and-Voice-based-guide) |
-| **Ganesha Restaurant (OmniServe)** | Full-stack restaurant POS & real-time ordering system with Google Maps geofenced radius limitation, delivery fee calculations, and live kitchen audio workflow. | `Python` `Django` `MySQL` `Google Maps Matrix API` `AJAX` `POS` | [Repository](https://github.com/dhanushmsr/global-food-ecommerce-django) |
-| **RxDx** | Medical E-Learning & CME continuing education platform engineered for 200+ doctors with course catalogs, video lectures, and dynamic certificate generation. | `React.js` `React Native` `Node.js` `Express.js` `MongoDB` `JWT` | Production |
-| **ZureSmile** | Dental practice and clinic management portal managing 1,000+ monthly appointments with double-booking prevention and automated webhook notifications. | `React.js` `Node.js` `Express.js` `MongoDB` `Calendar API` | Production |
-| **AcD Academy Management** | Cross-platform sports academy mobile application featuring batch management, attendance tracking, platform fee receipts, and tournament logs. | `React Native` `Flutter` `Node.js` `REST APIs` | [Live App](https://acdmanage.vercel.app/#/login) |
-| **Class Vision** | Automated AI facial recognition attendance tracking platform using Haar Cascades, CSV time-logging, and Tkinter GUI. | `Python` `OpenCV` `Haar Cascades` `Tkinter` | [Repository](https://github.com/dhanushmsr/Attendance-Monitoring-System) |
+| **FastX** | **Hyperlocal Quick-Commerce & Multi-Vendor Grocery Marketplace** — 10-minute delivery ecosystem synchronizing multi-merchant catalogs, dynamic wallet transactions, coupon validation engine, and live delivery dispatch. | `Python` `Django` `REST APIs` `MySQL` `Geo-Routing` `FastX Wallet` | [Repository](https://github.com/dhanushmsr/Hyperlocal-Delivery-Multi-Vendor-Marketplace) |
+| **GoSouthIndia** | **AI Cultural Tourism & Digital Concierge Platform** — Real-time heritage insights covering UNESCO monuments with Gemini LLM, domain-grounded RAG pipeline, and Edge-TTS multilingual speech reading. | `FastAPI` `Python` `Gemini LLM` `RAG` `Edge-TTS` `RBAC` `PostgreSQL` | [Repository](https://github.com/dhanushmsr/Tour-Guide-With-LLM-and-Voice-based-guide) |
+| **Ganesha Restaurant (OmniServe)** | **Full-Stack Restaurant POS & Online Ordering Platform** — Google Maps geofenced radius limitation, delivery fee calculations, and live kitchen audio workflow via AJAX polling. | `Python` `Django` `MySQL` `Google Maps Matrix API` `AJAX` `POS` | [Repository](https://github.com/dhanushmsr/global-food-ecommerce-django) |
+| **RxDx** | **Medical E-Learning & CME Platform** — Accredited education portal serving 200+ doctors with video lectures, quiz assessments, and automated certificate generation. | `React.js` `React Native` `Node.js` `Express.js` `MongoDB` `JWT` | Production |
+| **ZureSmile** | **Dental Practice & Clinic Management Portal** — Handling 1,000+ monthly appointments with double-booking prevention and automated webhook notifications. | `React.js` `Node.js` `Express.js` `MongoDB` `Calendar API` | Production |
+| **AcD Academy Management** | **Sports Coaching & Student Mobile App** — Batch management, attendance marking, platform fee receipts, and tournament expense logging. | `React Native` `Flutter` `Node.js` `REST APIs` | [Live App](https://acdmanage.vercel.app/#/login) |
+| **Class Vision** | **AI Face Recognition Attendance System** — Automated facial recognition attendance logging platform using Haar Cascades, CSV time-logging, and Tkinter GUI. | `Python` `OpenCV` `Haar Cascades` `Tkinter` | [Repository](https://github.com/dhanushmsr/Attendance-Monitoring-System) |
 
 ---
 
-## 🏆 Badges & Milestones
+## 🎖️ Engineering Credentials & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanushmsr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="GitHub Profile Trophies" />
+  <img src="https://img.shields.io/badge/🎓_Degree-B.E._CSE_(Honours_in_Cyber_Security)-06b6d4?style=for-the-badge" alt="Degree" />
+  <img src="https://img.shields.io/badge/⭐_Academic_Standing-CGPA_8.12-10b981?style=for-the-badge" alt="CGPA" />
+  <img src="https://img.shields.io/badge/📜_Certification-HCL_GUVI_(DSA_%26_Flask)-eab308?style=for-the-badge" alt="GUVI" />
+  <img src="https://img.shields.io/badge/♟️_Chess-Competitive_Player_%26_Coach-8b5cf6?style=for-the-badge" alt="Chess" />
 </p>
 
 ---
@@ -159,5 +177,5 @@ Passions:     Competitive Chess Player & Tactical Coach, Open Source Systems
 </p>
 
 <div align="center">
-  <sub>Engineered with precision by <strong>Dhanush M</strong> · Bengaluru & Coimbatore, India</sub>
+  <sub>Engineered with precision by <strong>Dhanush M</strong> · Bengaluru &amp; Coimbatore, India</sub>
 </div>
