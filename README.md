@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://dhanush-m.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-dhanush--m.vercel.app-06b6d4?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/dhanushm13/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/dhanushmsr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mdhanushdsm@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="tel:+919566960500"><img src="https://img.shields.io/badge/Direct_Call-+91_9566960500-10b981?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
   <a href="https://komarev.com/ghpvc/?username=dhanushmsr&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS"><img src="https://komarev.com/ghpvc/?username=dhanushmsr&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/></a>
