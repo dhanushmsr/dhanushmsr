@@ -175,7 +175,7 @@ Passions:       Competitive Chess Player & Tactical Coach, Open Source Distribut
 
 <p align="center">
   <a href="https://dhanush-m.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-dhanush--m.vercel.app-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dhanushm13/"><img src="https://img.shields.io/badge/LinkedIn-Dhanush_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dhanushmsr/"><img src="https://img.shields.io/badge/LinkedIn-Dhanush_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mdhanushdsm@gmail.com"><img src="https://img.shields.io/badge/Email-mdhanushdsm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="tel:+919566960500"><img src="https://img.shields.io/badge/Call-+91_9566960500-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
